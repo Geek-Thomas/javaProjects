@@ -10,14 +10,10 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * <p> Author：lzhpo </p>
- * <p> Title：</p>
- * <p> Description：
  * CommentGenerator 接口，里面的方法非常多，
  * 不仅包含了生成 Java 实体注释对应的方法，
  * 还包括了生成 XML 中注释的方法。
  * 写一个默认的实现类，实现CommentGenerator 接口，但不做任何操作。
- * </p>
  */
 public class CommentGeneratorUtil implements CommentGenerator {
 

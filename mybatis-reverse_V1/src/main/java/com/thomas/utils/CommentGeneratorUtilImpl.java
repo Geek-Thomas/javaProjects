@@ -10,11 +10,7 @@ import java.util.Date;
 import java.util.Properties;
 
 /**
- * <p> Author：lzhpo </p>
- * <p> Title：</p>
- * <p> Description：
- * 继承我自定义的MyCommentGenerator方法，获取数据库的表注释以及字段注释。
- * </p>
+ * 继承自定义的MyCommentGenerator方法，获取数据库的表注释以及字段注释。
  */
 public class CommentGeneratorUtilImpl extends CommentGeneratorUtil {
 

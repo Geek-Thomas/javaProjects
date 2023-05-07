@@ -10,11 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * <p> Author：lzhpo </p>
- * <p> Title：</p>
- * <p> Description：
  * 使用java代码运行mybatis-generator
- * </p>
  */
 public class GeneratorRun {
 
